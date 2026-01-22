@@ -1,10 +1,10 @@
-# Blogify 📝
+# Blogify 
 
 A full-stack blog application where users can create accounts, publish blogs with images, and comment on posts.
 
 ![Blogify Screenshot](https://via.placeholder.com/800x400?text=Blogify+Screenshot)
 
-## Features ✨
+## Features 
 
 - **User Authentication**
   - Sign up with email/password
@@ -21,7 +21,7 @@ A full-stack blog application where users can create accounts, publish blogs wit
   - View author profiles
   - Like/favorite posts (coming soon)
 
-## Tech Stack 💻
+## Tech Stack 
 
 **Frontend:**
 - EJS Templates
@@ -38,7 +38,7 @@ A full-stack blog application where users can create accounts, publish blogs wit
 - Cookie-based authentication
 - Environment configuration
 
-## Installation 🛠️
+## Installation 
 
 1. Clone the repository:
    ```bash
